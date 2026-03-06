@@ -1,10 +1,10 @@
-Week 3 – Data Transformation
+Week 3 – Data Transformation & Interactive Data Cleaning Session
 
 Topics Covered:
 
-This week focused on transforming data using Power Query tools.
+In the third week, we focused on transforming data using various tools available in Power Query. Data transformation helps convert raw and inconsistent data into a structured format suitable for analysis.
 
-Transformation Techniques:
+Transformation Techniques Learned:
 
 ->Split Column
 
@@ -16,18 +16,26 @@ Transformation Techniques:
 
 ->Formatting text values
 
-->Converting text data to numbers
+->Converting text data into numeric values
 
 ->Changing column data types
 
 Example Transformations:
 
-->Splitting address in street and city
+->Splitting full names into first name and last name
 
 ->Removing unwanted text from numeric columns
 
 ->Formatting percentage values
 
+->Standardizing inconsistent entries
+
+Interactive Data Cleaning Session:
+
+During this week we also had an interactive learning session. One of our team members performed data cleaning on a dataset while the rest of the team actively participated by suggesting steps and discussing the best ways to clean and transform the data.
+
+This collaborative session helped us better understand practical data cleaning techniques and how different Power Query tools can be applied in real-world datasets.
+
 Learning Outcome:
 
-We learned how to prepare data properly before performing analysis or creating dashboards.
+This week helped us understand how to transform and prepare data effectively. The interactive session also improved our practical understanding of data cleaning and teamwork in solving data preparation problems.
