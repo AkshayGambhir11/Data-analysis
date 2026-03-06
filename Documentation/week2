@@ -1,1 +1,31 @@
+Week 2 – Data Cleaning
 
+Topics Covered:
+
+In the second week, we focused on cleaning raw datasets using Power Query.
+
+Data Cleaning Techniques Learned:
+
+->Removing duplicate rows
+
+->Removing blank rows
+
+->Handling missing values
+
+->Fixing incorrect data types
+
+->Standardizing inconsistent data
+
+->Replacing incorrect values using Replace Values
+
+Example Cleaning Tasks:
+
+->Cleaning Yes or No values
+
+->Removing unwanted spaces
+
+->Standardizing percentage values
+
+Learning Outcome:
+
+We understood that clean data is essential for accurate analysis and visualization.
