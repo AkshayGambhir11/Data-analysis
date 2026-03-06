@@ -1,1 +1,33 @@
+Week 3 – Data Transformation
 
+Topics Covered:
+
+This week focused on transforming data using Power Query tools.
+
+Transformation Techniques:
+
+->Split Column
+
+->Merge Column
+
+->Extract values from columns
+
+->Trim and Clean text
+
+->Formatting text values
+
+->Converting text data to numbers
+
+->Changing column data types
+
+Example Transformations:
+
+->Splitting address in street and city
+
+->Removing unwanted text from numeric columns
+
+->Formatting percentage values
+
+Learning Outcome:
+
+We learned how to prepare data properly before performing analysis or creating dashboards.
