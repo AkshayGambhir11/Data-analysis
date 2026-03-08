@@ -1,34 +1,53 @@
-Data Analysis using Power BI
-1. Title
+💻 Optimizing IT Support Team Performance Using Analytics
 
-Data Analysis and Data Preparation using Power BI
-This project demonstrates the process of performing data analysis using Power BI. It focuses on understanding datasets, performing exploratory data analysis, cleaning and transforming data, and preparing the dataset for further analysis and visualization.
+📌 Project Overview:
 
-2. Problem Statement
+This project focuses on analyzing IT support ticket data to evaluate and improve the performance of an IT support team. By applying data analysis techniques, the project aims to identify patterns in ticket handling, response times, and resolution efficiency. Using analytics and visualization tools, the project helps highlight areas where support operations can be optimized.
 
-In real-world scenarios, raw data often contains inconsistencies, missing values, and formatting issues that make analysis difficult. Before meaningful insights can be generated, the data must be cleaned, structured, and transformed.
-The objective of this project is to apply data analysis techniques using Power BI to clean, explore, and prepare datasets for accurate analysis.
+🎯 Problem Statement:
 
-3. Dataset Description
+IT support teams handle a large number of service requests daily. Without proper analysis, it becomes difficult to monitor team performance, identify bottlenecks, and ensure efficient ticket resolution.
 
-The dataset used in this project contains multiple attributes related to transactional data. The dataset includes columns such as:
+The goal of this project is to analyze IT support ticket data to:
 
-->Product information
+->Evaluate the performance of support teams
 
-->Units sold
+->Identify delays in ticket resolution
 
-->Unit price
+->Improve response time and service quality
 
-->Profit margin
+->Provide insights that help optimize IT support operations
 
-->Total sales
+📂 Dataset Description:
 
-->Regional data
+The dataset used in this project contains information related to IT support tickets. It includes attributes such as:
 
-The dataset is divided into two versions:
+->Ticket ID
 
-Raw Data:
-The original dataset before cleaning and transformation.
+->Issue category
 
-Processed Data:
-The dataset after performing data cleaning and transformation using Power Query.
+->Priority level
+
+->Assigned support agent
+
+->Ticket creation date
+
+->Resolution time
+
+->Ticket status
+
+The dataset is divided into two forms:
+
+Data Type	Description
+Raw Data	Original dataset before any data cleaning or transformation
+Processed Data	Dataset after cleaning, formatting, and transformation using Power Query
+
+📊 Key Performance Indicators (KPIs)-
+
+📉 Dashboard Description-
+
+🔍 Insights-
+
+💡 Recommendations-
+
+🛠 Tools Used-
