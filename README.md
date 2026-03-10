@@ -10,13 +10,13 @@ IT support teams handle a large number of service requests daily. Without proper
 
 The goal of this project is to analyze IT support ticket data to:
 
-->Evaluate the performance of support teams
+-Evaluate the performance of support teams
 
-->Identify delays in ticket resolution
+-Identify delays in ticket resolution
 
-->Improve response time and service quality
+-Improve response time and service quality
 
-->Provide insights that help optimize IT support operations
+-Provide insights that help optimize IT support operations
 
 📂 Dataset Description:
 
