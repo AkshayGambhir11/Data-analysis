@@ -1,1 +1,189 @@
+📄 Week 5 – Data Types, EDA Process and Dashboard-Oriented Analysis
+📌 Overview
 
+During the fifth week, we focused on understanding different types of data, performing Exploratory Data Analysis (EDA), identifying outliers, and framing analytical questions for dashboards. This week helped us understand how to analyze data systematically before building visualizations.
+
+📊 Topics Covered
+1️⃣ Types of Data in Analysis
+
+Understanding data types is important because it determines how data can be analyzed and visualized.
+
+🔹 Categorical Data
+
+Categorical data represents labels or categories and does not have numerical meaning.
+
+Examples:
+
+Priority (Low, Medium, High, Critical)
+
+Category (Hardware, Software, Network)
+
+Status (Open, Closed, Pending)
+
+👉 Used for grouping, filtering, and comparison.
+
+🔹 Numeric Data
+
+Numeric data represents quantitative values that can be measured and used in calculations.
+
+Examples:
+
+Response time
+
+Resolution time
+
+Sales amount
+
+Number of tickets
+
+👉 Used for calculations like sum, average, and trends.
+
+🔹 Time Series Data
+
+Time series data is data that is recorded over time.
+
+Examples:
+
+Tickets created per day
+
+Monthly sales
+
+Daily response time
+
+👉 Used for trend analysis, forecasting, and time-based insights.
+
+2️⃣ Steps in Exploratory Data Analysis (EDA)
+
+EDA is a structured process used to understand and prepare data before analysis.
+
+🔹 Step 1: Understand Data
+
+Identify columns and their meaning
+
+Check data types (text, number, date)
+
+Understand dataset structure
+
+👉 Helps in getting an overview of the dataset.
+
+🔹 Step 2: Clean Data
+
+Remove duplicate records
+
+Handle missing or null values
+
+Correct incorrect data types
+
+Standardize inconsistent values
+
+👉 Ensures data accuracy and reliability.
+
+🔹 Step 3: Remove Outliers
+
+Identify extreme or unusual values
+
+Analyze whether they are valid or errors
+
+Remove or handle them appropriately
+
+👉 Improves accuracy of analysis and prevents misleading results.
+
+🔹 Step 4: Relationship Between Columns
+
+Analyze how variables are connected
+
+Identify patterns and dependencies
+
+Examples:
+
+Relationship between priority and resolution time
+
+Relationship between agent and number of tickets
+
+👉 Helps in deriving meaningful insights.
+
+3️⃣ Outliers
+
+Outliers are values that are significantly different from the rest of the dataset.
+
+🔹 Characteristics:
+
+Extremely high or low values
+
+Can distort averages and analysis
+
+🔹 Example:
+
+If most resolution times are:
+
+10, 12, 15, 11
+
+But one value is:
+
+200
+
+👉 This is an outlier.
+
+🔹 Importance:
+
+Must be detected during EDA
+
+Should be handled carefully to avoid incorrect insights
+
+4️⃣ Dashboard-Oriented Questions
+
+A good dashboard is built by answering meaningful questions. We learned how to frame such questions from the dataset.
+
+🔹 Performance-Based Questions
+
+How many tickets are created, resolved, and pending?
+
+What is the average response and resolution time?
+
+🔹 Agent Analysis
+
+Which agent resolves the most tickets?
+
+Which agent has the fastest resolution time?
+
+🔹 Issue Analysis
+
+Which category of issues occurs most frequently?
+
+Which category takes the longest time to resolve?
+
+🔹 Priority Analysis
+
+How many high-priority tickets are there?
+
+Are high-priority tickets resolved faster?
+
+🔹 Trend Analysis
+
+How do ticket volumes change over time?
+
+Are there peak days or periods for ticket creation?
+
+🔹 Efficiency Questions
+
+Are there delays or bottlenecks?
+
+Is workload evenly distributed among agents?
+
+🎯 Learning Outcome
+
+By the end of this week, we developed the ability to:
+
+Identify and classify different types of data
+
+Perform structured Exploratory Data Analysis
+
+Detect and handle outliers
+
+Analyze relationships between variables
+
+Frame meaningful questions for dashboards
+
+✅ Conclusion
+
+Week 5 emphasized the importance of understanding data before analysis. By applying EDA techniques and identifying key questions, we can build more accurate, meaningful, and insightful dashboards.
