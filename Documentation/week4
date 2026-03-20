@@ -1,1 +1,103 @@
+📄 Week 4 – Exploratory Data Analysis (EDA) and Data Profiling
+📌 Overview
 
+During the fourth week, we focused on Exploratory Data Analysis (EDA) and understanding the dataset before performing further analysis. We also learned about Key Performance Indicators (KPIs) and data profiling tools available in Power Query.
+
+📊 Topics Covered
+1️⃣ Exploratory Data Analysis (EDA)
+
+EDA is the process of analyzing and understanding a dataset before performing detailed analysis or building dashboards. It helps identify patterns, detect errors, and understand the structure of data.
+
+2️⃣ Types of Data
+
+We learned about three main types of data:
+
+Categorical Data – Represents categories or labels (e.g., Priority, Category)
+
+Numeric Data – Represents measurable values (e.g., sales, response time)
+
+Time Series Data – Data recorded over time (e.g., tickets per day)
+
+3️⃣ Steps in EDA
+
+The main steps followed in EDA are:
+
+Understanding the data – Checking columns, data types, and structure
+
+Cleaning the data – Removing duplicates and handling missing values
+
+Detecting and removing outliers – Identifying extreme values that affect analysis
+
+Finding relationships between columns – Understanding how variables are related
+
+4️⃣ Data Profiling Tools in Power Query
+
+We explored the View tab in Power Query, which provides important tools:
+
+🔹 Column Quality
+
+Shows percentage of valid values, errors, and empty values
+
+Helps quickly identify data issues
+
+🔹 Column Distribution
+
+Shows frequency of values in a column
+
+Helps identify duplicates and patterns
+
+🔹 Column Profile
+
+Provides detailed statistics such as:
+
+Minimum value
+
+Maximum value
+
+Average
+
+Value distribution
+
+These tools help in quickly understanding the dataset without manual calculations.
+
+5️⃣ Outliers
+
+We learned about outliers, which are extreme or unusual values that differ significantly from the rest of the data.
+
+Outliers can affect analysis results
+
+They need to be identified and handled properly
+
+6️⃣ Key Performance Indicators (KPIs)
+
+We also discussed KPIs, which are measurable values used to evaluate performance.
+
+Examples:
+
+Total Sales
+
+Average Response Time
+
+Number of Tickets Resolved
+
+Profit Margin
+
+KPIs help in tracking performance and making data-driven decisions.
+
+🎯 Learning Outcome
+
+By the end of this week, we understood how to:
+
+Perform exploratory data analysis
+
+Identify data types and data quality issues
+
+Use Power Query profiling tools
+
+Detect outliers
+
+Define and use KPIs for analysis
+
+✅ Conclusion
+
+Week 4 helped us understand that before performing analysis, it is important to explore and understand the dataset using EDA techniques. Proper data understanding leads to more accurate insights and better decision-making.
